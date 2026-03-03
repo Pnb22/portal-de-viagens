@@ -1,1 +1,3 @@
 [01:43:58.328] Server  LOG     ○ Compiling /_not-found/page ...
+[01:44:58.035] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/destinos. Falling back to browser navigation. {}
+[01:44:58.035] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/destinos/paris. Falling back to browser navigation. {}
