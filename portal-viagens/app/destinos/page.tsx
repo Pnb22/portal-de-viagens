@@ -12,7 +12,7 @@ export default function Destinos() {
             key={destino.id}
             id={destino.id}
             nome={destino.nome}
-            imagem={destino.imagem}
+            imagem={destino.imagens[0]}
           />
         ))}
       </div>
